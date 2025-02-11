@@ -1,0 +1,8 @@
+node_modules/
+*.log
+wp-config.php
+vendor/
+.idea/
+.vscode/
+.DS_Store
+
